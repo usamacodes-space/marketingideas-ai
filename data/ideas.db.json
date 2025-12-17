@@ -1,0 +1,92 @@
+[
+  {
+    "id": "mi-01",
+    "title": "Use a full idea library as a lead magnet",
+    "core_action": "Publish a structured, searchable list of your best ideas and gate the deeper explanations behind email or paid access.",
+    "why_it_works": "People want clarity and completeness; a full list builds trust fast and pulls users into your ecosystem.",
+    "tags": ["content", "lead-gen", "education"],
+    "company_fit": ["saas", "content", "tools", "startups"],
+    "url": "https://www.marketingideas.com/p/full-list"
+  },
+  {
+    "id": "mi-02",
+    "title": "Steal an audience instead of building one",
+    "core_action": "Partner with creators or communities that already own your ideal audience and collaborate on value-first content.",
+    "why_it_works": "You shortcut distribution by borrowing trust instead of earning it from scratch.",
+    "tags": ["distribution", "partnerships", "growth"],
+    "company_fit": ["saas", "startups", "content"],
+    "url": "https://www.marketingideas.com/p/how-to-steal-an-audience"
+  },
+  {
+    "id": "mi-03",
+    "title": "Market to people’s egos, not features",
+    "core_action": "Design shareable moments where users look smart, accomplished, or early — badges, rankings, certificates.",
+    "why_it_works": "People promote what makes them look good; your product becomes the vehicle.",
+    "tags": ["viral", "social-proof", "referrals"],
+    "company_fit": ["saas", "platforms", "tools"],
+    "url": "https://www.marketingideas.com/p/your-1-marketing-channel-is-peoples"
+  },
+  {
+    "id": "mi-04",
+    "title": "Apply viral laws instead of guessing",
+    "core_action": "Audit your landing pages and content using proven viral principles like contrast, emotion, and simplicity.",
+    "why_it_works": "Virality follows patterns; following laws beats chasing trends.",
+    "tags": ["viral", "strategy", "content"],
+    "company_fit": ["saas", "ecommerce", "content"],
+    "url": "https://www.marketingideas.com/p/the-13-viral-marketing-laws"
+  },
+  {
+    "id": "mi-05",
+    "title": "Fix marketing by simplifying it",
+    "core_action": "Strip your messaging down to one core problem and one clear promise across all channels.",
+    "why_it_works": "Confusion kills conversions; clarity compounds.",
+    "tags": ["positioning", "conversion", "messaging"],
+    "company_fit": ["saas", "startups", "services"],
+    "url": "https://www.marketingideas.com/p/what-to-do-if-your-marketing-sucks"
+  },
+  {
+    "id": "mi-06",
+    "title": "Build a mini-tool instead of content",
+    "core_action": "Create a small, single-purpose tool related to your product and give it away for free.",
+    "why_it_works": "Tools provide instant value and earn backlinks, shares, and users automatically.",
+    "tags": ["tools", "seo", "lead-gen"],
+    "company_fit": ["saas", "software", "platforms"],
+    "url": "https://www.marketingideas.com/p/mini-tools-are-10x-more-powerful"
+  },
+  {
+    "id": "mi-07",
+    "title": "Win attention in the first 3 seconds",
+    "core_action": "Rewrite headlines and above-the-fold sections to communicate value instantly, without scrolling.",
+    "why_it_works": "Users decide whether to stay or leave almost immediately.",
+    "tags": ["copywriting", "conversion", "ux"],
+    "company_fit": ["saas", "ecommerce", "content"],
+    "url": "https://www.marketingideas.com/p/the-3-second-rule"
+  },
+  {
+    "id": "mi-08",
+    "title": "Collect inspiration systematically",
+    "core_action": "Build a swipe file of great marketing examples and reuse proven patterns instead of reinventing.",
+    "why_it_works": "Most great marketing is iteration, not invention.",
+    "tags": ["inspiration", "process", "strategy"],
+    "company_fit": ["all"],
+    "url": "https://www.marketingideas.com/p/marketing-inspirationksdjflaksdjf"
+  },
+  {
+    "id": "mi-09",
+    "title": "Avoid expensive offline ads unless justified",
+    "core_action": "Only use billboards or offline ads when they reinforce an already strong online narrative.",
+    "why_it_works": "Offline works best as amplification, not as a starting point.",
+    "tags": ["branding", "offline", "budget"],
+    "company_fit": ["funded-startups", "brands"],
+    "url": "https://www.marketingideas.com/p/billboards-are-a-waste-of-money-unless"
+  },
+  {
+    "id": "mi-10",
+    "title": "Choose brand colors strategically",
+    "core_action": "Pick colors based on contrast, readability, and emotional intent — not personal taste.",
+    "why_it_works": "Color impacts trust, clarity, and perceived quality instantly.",
+    "tags": ["branding", "design", "conversion"],
+    "company_fit": ["saas", "brands", "ecommerce"],
+    "url": "https://www.marketingideas.com/p/how-to-pick-the-perfect-color-in"
+  }
+]
